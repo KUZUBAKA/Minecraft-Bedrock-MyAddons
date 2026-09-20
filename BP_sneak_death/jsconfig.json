@@ -1,1 +1,0 @@
-{ "compilerOptions": { "paths": { "@minecraft/*": ["/home/kuzubaka/.local/share/nvim/bedrock-scripts/node_modules/@minecraft/*"] } } }
