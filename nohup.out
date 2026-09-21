@@ -1,0 +1,10 @@
+KTranscript: Loaded module: /usr/share/locale/ja/LC_SCRIPTS/ki18n6/ki18n6.js
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: TagLib::ID3v2::Header::parse() - One of the size bytes in the ID3v2 header was greater than the allowed 128.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: TagLib::ID3v2::Header::parse() - One of the size bytes in the ID3v2 header was greater than the allowed 128.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
+TagLib: MPEG::Header::parse() -- MPEG header did not match MPEG synch.
+TagLib: TagLib::ID3v2::Header::parse() - One of the size bytes in the ID3v2 header was greater than the allowed 128.
+TagLib: MPEG::Properties::read() -- Could not find an MPEG frame in the stream.
