@@ -3,14 +3,14 @@
  "header": {
   "description": "死の箱を追加します",
   "name": "死箱",
-  "uuid": "UUID2",
+  "uuid": "e53a604d-4eb2-4b90-80e0-11bacae482d7",
   "min_engine_version": [ 1, 20, 40 ],
   "version": [ 1, 0, 0 ]
  },
  "modules": [
   {
-   "type": "data",
-   "uuid": "UUID2",
+   "type": "resources",
+   "uuid": "12b1c87b-246f-437d-b92e-479f577e5316",
    "version": [ 1, 0, 0 ]
   }
  ]
