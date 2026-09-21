@@ -1,5 +1,5 @@
 {
- "format_version": 3,
+ "format_version": 2,
  "header": {
   "description": "特定のブロックの上でスニークで死ぬ",
   "name": "スニークは死",
