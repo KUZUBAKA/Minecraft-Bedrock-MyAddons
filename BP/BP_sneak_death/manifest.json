@@ -1,8 +1,8 @@
 {
  "format_version": 2,
  "header": {
-  "description": "特定のブロックの上でスニークで死ぬ",
-  "name": "スニークは死",
+  "description": "死の箱を追加します",
+  "name": "死箱",
   "uuid": "6eceb5fe-e134-4c19-904c-85d25651dea3",
   "min_engine_version": [ 1, 26, 40 ],
   "version": [ 1, 0, 0 ]
