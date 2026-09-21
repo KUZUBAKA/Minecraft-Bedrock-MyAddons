@@ -4,7 +4,7 @@
   "description": "死の箱を追加します",
   "name": "死箱",
   "uuid": "e53a604d-4eb2-4b90-80e0-11bacae482d7",
-  "min_engine_version": [ 1, 20, 40 ],
+  "min_engine_version": [ 1, 26, 51 ],
   "version": [ 1, 0, 0 ]
  },
  "modules": [
