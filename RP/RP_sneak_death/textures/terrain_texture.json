@@ -1,5 +1,9 @@
 {
  "resource_pack_name": "deathbox",
  "texture_name": "atlas.terrain",
- "texture_data": {}
+ "texture_data": {
+  "kuzubaka:deathbox_top": { "textures": "textures/blocks/deathbox_top" },
+  "kuzubaka:deathbox_side": { "textures": "textures/blocks/deathbox_side" },
+  "kuzubaka:deathbox_front": { "textures": "textures/blocks/deathbox_front" }
+ }
 }
