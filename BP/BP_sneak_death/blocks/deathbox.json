@@ -1,4 +1,8 @@
 {
  "format_version": "1.26.50",
- "minecraft:block": {}
+ "minecraft:block": {
+  "description": {
+   "identifier": "kuzubaka:deathbox"
+  }
+ }
 }
