@@ -3,6 +3,10 @@
  "minecraft:block": {
   "description": {
    "identifier": "kuzubaka:deathbox"
+  },
+  "components": {
+   "minecraft:destructible_by_mining": { "seconds_to_destroy": 0.5 },
+   "minecraft:destructible_by_explosion": { "explosion_resistance": 0.5 }
   }
  }
 }
