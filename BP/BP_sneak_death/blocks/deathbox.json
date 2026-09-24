@@ -6,6 +6,10 @@
    "menu_category": {
     "category": "items",
     "group": "minecraft:itemGroup.name.chest"
+   },
+   "traits": {
+    "minecraft:placement_direction": {
+    }
    }
   },
   "components": {
