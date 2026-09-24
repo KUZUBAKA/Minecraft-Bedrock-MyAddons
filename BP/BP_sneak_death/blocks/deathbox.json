@@ -2,7 +2,11 @@
  "format_version": "1.26.50",
  "minecraft:block": {
   "description": {
-   "identifier": "kuzubaka:deathbox"
+   "identifier": "kuzubaka:deathbox",
+   "menu_category": {
+    "category": "items",
+    "group": "minecraft:itemGroup.name.chest"
+   }
   },
   "components": {
    "minecraft:destructible_by_mining": { "seconds_to_destroy": 0.5 },
