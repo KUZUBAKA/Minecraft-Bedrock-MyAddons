@@ -19,7 +19,10 @@
    "minecraft:destructible_by_explosion": { "explosion_resistance": 0.5 },
    "minecraft:geometry": "minecraft:geometry.full_block",
    "minecraft:material_instances": {
-    "*": { "texture": "kuzubaka:deathbox_side" }
+    "*": { "texture": "kuzubaka:deathbox_side" },
+    "up": { "texture": "kuzubaka:deathbox_top" },
+    "down": { "texture": "kuzubaka:deathbox_top" },
+    "north": { "texture": "kuzubaka:deathbox_front" }
    }
   }
  }
